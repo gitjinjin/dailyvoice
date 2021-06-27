@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="jp">
+  <head>
+    <link rel="stylesheet" href="top.css">
+    <meta charset="utf-8" name="robots" content="none">
+    <title>"Voice Site"</title>
+  </head>
+  <body>
+    <header class="Page-header">
+      <h1>のておの音声記録</h1>
+          </header>
+      <nav>
+        <ul class="main-nuv">
+          <li class ="link1"><a href="today.html">音声を聞く</a></li>
+        </ul>
+      </nav>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+
+<a href="https://free-counter.jp"><img src="https://f-counter.net/j/46/1622987859/" alt="アクセスカウンター"></a>
+
+  </body>
+</html>
